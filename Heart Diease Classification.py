@@ -411,15 +411,3 @@ plt.title('ROC Curve Comparison For All Models')
 plt.legend(loc="lower right")
 
 plt.show()
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
