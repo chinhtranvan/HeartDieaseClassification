@@ -10,13 +10,13 @@
 
 
 
-<img width="446" alt="m" src="https://user-images.githubusercontent.com/47764275/105010215-6aec2b00-5a09-11eb-84aa-873697eb9905.PNG">
+<img width="446" alt="m" src="https://user-images.githubusercontent.com/47764275/105010215-6aec2b00-5a09-11eb-84aa-873697eb9905.PNG" width="300" height="300" >
 
 3
 
 PREPROCESSING
 
-![aaa](https://user-images.githubusercontent.com/47764275/105008447-3d9e7d80-5a07-11eb-9a33-ba0d84e6a091.png&s=200)
+![aaa](https://user-images.githubusercontent.com/47764275/105008447-3d9e7d80-5a07-11eb-9a33-ba0d84e6a091.png)
 Repace ? by Nanvalue 
 ![bbb](https://user-images.githubusercontent.com/47764275/105008486-4c853000-5a07-11eb-97b1-49cccfa5c840.png)
 Remove Nan value
