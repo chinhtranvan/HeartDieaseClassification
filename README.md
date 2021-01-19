@@ -10,6 +10,10 @@ There are a lot of Publications done by other researchers
 •	J. R. Quinlan, C4.5: programs for machine learning, Morgan Kaufmann, San Mateo, CA, 1993. Accuracy 80.74%
 •	Endre Boros and Peter Hammer and Toshihide Ibaraki and Alexander Kogan and Eddy Mayoraz and Ilya B. Muchnik. An Implementation of Logical Analysis of Data. IEEE Trans. Knowl. Data Eng, 12. 2000. accuracy 83.8 %
 •	Yuan Jiang Zhi and Hua Zhou and Zhaoqian Chen. Rule Learning based on Neural Network Ensemble. Proceedings of the International Joint Conference on Neural Networks. 2002 97.26%
-
 3
+
+
+
+
+
 <img width="378" alt="Capture" src="https://user-images.githubusercontent.com/47764275/104999612-235ea280-59fb-11eb-958f-b15b5ca98202.PNG">
