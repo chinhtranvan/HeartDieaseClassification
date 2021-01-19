@@ -10,7 +10,7 @@
 
 
 
-<img width="446" alt="m" src="https://user-images.githubusercontent.com/47764275/105010215-6aec2b00-5a09-11eb-84aa-873697eb9905.PNG" width="800" height="300" >
+<img width="446" alt="m" src="https://user-images.githubusercontent.com/47764275/105010215-6aec2b00-5a09-11eb-84aa-873697eb9905.PNG" width="800" height="800" >
 
 3
 
