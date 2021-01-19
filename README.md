@@ -12,3 +12,4 @@ There are a lot of Publications done by other researchers
 •	Yuan Jiang Zhi and Hua Zhou and Zhaoqian Chen. Rule Learning based on Neural Network Ensemble. Proceedings of the International Joint Conference on Neural Networks. 2002 97.26%
 
 3
+<img width="378" alt="Capture" src="https://user-images.githubusercontent.com/47764275/104999612-235ea280-59fb-11eb-958f-b15b5ca98202.PNG">
