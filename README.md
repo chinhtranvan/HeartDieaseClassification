@@ -10,7 +10,8 @@
 
 
 
-<img width="378" alt="Capture" src="https://user-images.githubusercontent.com/47764275/104999612-235ea280-59fb-11eb-958f-b15b5ca98202.PNG">
+<img width="446" alt="m" src="https://user-images.githubusercontent.com/47764275/105010215-6aec2b00-5a09-11eb-84aa-873697eb9905.PNG">
+
 3
 
 PREPROCESSING
@@ -35,6 +36,5 @@ CONCLUSION
 
 Using random forests has produced the best performances in test error rate and having true positives/true negatives
 
+<img width="450" alt="n" src="https://user-images.githubusercontent.com/47764275/105010239-74759300-5a09-11eb-90c0-7910328cc8b8.PNG">
 
-<img width="380" alt="gggg" src="https://user-images.githubusercontent.com/47764275/105009451-7d199980-5a08-11eb-9b9a-74a47b417b01.PNG">
-<img width="381" alt="mmm" src="https://user-images.githubusercontent.com/47764275/105009476-83a81100-5a08-11eb-80f7-603d37225f70.PNG">
