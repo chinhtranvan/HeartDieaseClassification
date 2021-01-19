@@ -16,7 +16,7 @@
 
 PREPROCESSING
 
-![aaa](https://user-images.githubusercontent.com/47764275/105008447-3d9e7d80-5a07-11eb-9a33-ba0d84e6a091.png | width=300)
+![aaa](https://user-images.githubusercontent.com/47764275/105008447-3d9e7d80-5a07-11eb-9a33-ba0d84e6a091.png width="200" height="400")
 Repace ? by Nanvalue 
 ![bbb](https://user-images.githubusercontent.com/47764275/105008486-4c853000-5a07-11eb-97b1-49cccfa5c840.png)
 Remove Nan value
